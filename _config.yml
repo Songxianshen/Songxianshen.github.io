@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://Songxiansheng.github.io/project-pages/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,12 +114,13 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="http://Songxiansheng.github.io/project-pages/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
           label: "Theme (Slide)"
           placeholder: "Theme (Slide)"
+          options:
           options:
             - name: "Beige"
               value: "beige"
