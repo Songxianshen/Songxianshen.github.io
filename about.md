@@ -1,11 +1,9 @@
 ---
-title: About me
+layout: page
+title: "About"
+description: "Why use Project Pages?"
+header-img: "img/home-bg.jpg"
 ---
 
-I walk in the rain.
-
-高山仰止，景行行止。  
-![女流](/images/nvliu.jpg)  
-
-  
-Find me on [GitHub](https://github.com/Moriarty12138) or [Weibo](https://weibo.com/u/2393595857).
+Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+	
